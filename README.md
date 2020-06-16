@@ -50,7 +50,7 @@
 ## Security
 
 ### Static Analyzers
-- [Slither](https://github.com/crytic/slither
+- [Slither](https://github.com/crytic/slither)
 - [MythX CLI](https://docs.mythx.io/tools-integrations/mythx-cli)
 - [Remix](https://remix.ethereum.org/)
 
