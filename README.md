@@ -4,7 +4,41 @@
 
 ## Table of Contents
 
+- [Community](#community)
+- [Tools](#tools)
+- [Docs](#docs)
+- [Tutorials](#tutorials)
+- [Security](#security)
+- [References](#references)
 - [License](#license)
+
+## Community
+
+### Chat
+- [CryptoDevs](https://discord.gg/NC9D7x)
+- [Maker Chat](https://chat.makerdao.com)
+- [DappHub Chat](https://dapphub.chat)
+
+### Forum
+- [OpenZeppelin Forum](https://forum.openzeppelin.com/)
+- [Maker Forum](https://forum.makerdao.com/)
+
+### News
+- [Week in Ethereum](https://weekinethereumnews.com/)
+- [EthHub](https://ethhub.substack.com/)
+- [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
+
+## Tools
+
+## Docs
+
+## Tutorials
+
+## Security
+
+
+## References
+
 
 
 
