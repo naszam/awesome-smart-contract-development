@@ -46,11 +46,11 @@
 - [Uniswap Frontend](https://github.com/Uniswap/uniswap-frontend)
 - [Truffle Next Box](https://www.trufflesuite.com/boxes/truffle-next)
 - [Truffle React Box](https://www.trufflesuite.com/boxes/react)
+- [Ethers.js](https://github.com/ethers-io/ethers.js/)
+- [Web3.js](https://github.com/ethereum/web3.js)
 - [Fleek](https://fleek.co/)
 
 ### Utilities
-- [Ethers.js](https://github.com/ethers-io/ethers.js/)
-- [Web3.js](https://github.com/ethereum/web3.js)
 - [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)
 - [Etherscan](https://etherscan.io/)
 - [Tenderly](https://tenderly.co/)
