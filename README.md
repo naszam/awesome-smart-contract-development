@@ -20,9 +20,9 @@
 ## Community
 
 ### Chat
-- [CryptoDevs](https://discord.gg/NC9D7x) :memo:-solidity-dev 
-- [Maker Chat](https://chat.makerdao.com) #dev
-- [DappHub Chat](https://dapphub.chat) #dev
+- [CryptoDevs](https://discord.gg/NC9D7x) - :memo:-solidity-dev 
+- [Maker Chat](https://chat.makerdao.com) - #dev
+- [DappHub Chat](https://dapphub.chat) - #dev
 
 ### Forum
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
