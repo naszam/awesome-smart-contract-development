@@ -34,6 +34,7 @@
 ### Smart Contracts
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
+- [OpenGSN](https://docs.opengsn.org/contracts/index.html)
 - [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 
