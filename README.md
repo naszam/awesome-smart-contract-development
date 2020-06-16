@@ -80,7 +80,9 @@
 - [Blockchain Developer Bootcamp ConsenSys Academy](https://consensys.net/academy/bootcamp/)
 
 ## References
-
+- [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
+- [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/whitepaper/)
+- [Ethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 
 
