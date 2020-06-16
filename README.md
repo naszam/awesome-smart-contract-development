@@ -45,6 +45,7 @@
 - [Drizzle](https://www.trufflesuite.com/drizzle)
 - [Uniswap Frontend](https://github.com/Uniswap/uniswap-frontend)
 - [Dai.js Boilerplate](https://github.com/makerdao/nextjs-daijs-dai-ui-example)
+- [Next.js](https://github.com/vercel/next.js)
 - [Truffle Next Box](https://www.trufflesuite.com/boxes/truffle-next)
 - [Truffle React Box](https://www.trufflesuite.com/boxes/react)
 - [Ethers.js](https://github.com/ethers-io/ethers.js/)
