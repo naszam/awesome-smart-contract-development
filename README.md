@@ -29,12 +29,19 @@
 - [EthHub](https://ethhub.substack.com/)
 - [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
 
+### Awesome
+- [Awesome IPFS](https://github.com/ipfs/awesome-ipfs)
+- [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security)
+- [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+
 ## Tools
 
 ### Smart Contracts
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
 - [OpenGSN](https://docs.opengsn.org/contracts/index.html)
+- [IPFS](https://github.com/ipfs/ipfs)
+- [AZTEC Protocol](https://github.com/AztecProtocol/AZTEC)
 - [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 
