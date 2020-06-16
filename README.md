@@ -8,7 +8,6 @@
 - [Tools](#tools)
 - [Docs](#docs)
 - [Tutorials](#tutorials)
-- [Security](#security)
 - [References](#references)
 - [License](#license)
 
@@ -37,16 +36,20 @@
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 ### Testing
 - [Ganache](https://www.trufflesuite.com/ganache)
+- 
 - [Truffle Teams](https://www.trufflesuite.com/teams)
 ### Front-End
 - [Drizzle](https://www.trufflesuite.com/drizzle)
 
+### Static Analyzers
+- [Slither](https://github.com/crytic/slither
+- [MythX CLI](https://docs.mythx.io/tools-integrations/mythx-cli)
+- [Remix](https://remix.ethereum.org/)
 
 ## Docs
 
 ## Tutorials
 
-## Security
 
 
 ## References
