@@ -39,6 +39,7 @@
 
 ### Testing
 - [Ganache](https://www.trufflesuite.com/ganache)
+- [Jest.js](https://jestjs.io/)
 - [Truffle Teams](https://www.trufflesuite.com/teams)
 
 ### Front-End
