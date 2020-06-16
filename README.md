@@ -44,6 +44,7 @@
 ### Front-End
 - [Drizzle](https://www.trufflesuite.com/drizzle)
 - [Uniswap Frontend](https://github.com/Uniswap/uniswap-frontend)
+- [Truffle Next Box](https://www.trufflesuite.com/boxes/truffle-next)
 - [Truffle React Box](https://www.trufflesuite.com/boxes/react)
 - [Fleek](https://fleek.co/)
 
