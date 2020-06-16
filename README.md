@@ -5,6 +5,10 @@
 ## Table of Contents
 
 - [Community](#community)
+  - [Chat](#chat)
+  - [Forum](#forum)
+  - [News](#news)
+  - [Awesome](#awesome)
 - [Tools](#tools)
 - [Docs](#docs)
 - [Tutorials](#tutorials)
