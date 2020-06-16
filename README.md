@@ -60,6 +60,7 @@
 - [OpenGSN](https://github.com/opengsn/gsn)
 - [IPFS](https://github.com/ipfs/ipfs)
 - [AZTEC Protocol](https://github.com/AztecProtocol/AZTEC)
+- [Infura](https://infura.io/)
 - [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 
