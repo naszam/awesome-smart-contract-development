@@ -9,6 +9,7 @@
 - [Docs](#docs)
 - [Tutorials](#tutorials)
 - [Security](#security)
+- [Certifications](#certifications)
 - [References](#references)
 - [License](#license)
 
@@ -67,6 +68,9 @@
 
 ### Formal Verification
 - [Manticore](https://github.com/trailofbits/manticore)
+
+## Certifications
+- [Blockchain Developer Bootcamp ConsenSys Academy](https://consensys.net/academy/bootcamp/)
 
 ## References
 
