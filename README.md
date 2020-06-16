@@ -49,6 +49,8 @@
 - [Fleek](https://fleek.co/)
 
 ### Utilities
+- [Ethers.js](https://github.com/ethers-io/ethers.js/)
+- [Web3.js](https://github.com/ethereum/web3.js)
 - [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)
 - [Etherscan](https://etherscan.io/)
 - [Tenderly](https://tenderly.co/)
