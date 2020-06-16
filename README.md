@@ -30,6 +30,18 @@
 
 ## Tools
 
+## Smart Contracts
+- [Truffle](https://www.trufflesuite.com/truffle)
+- [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
+- [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
+- [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
+## Testing
+- [Ganache](https://www.trufflesuite.com/ganache)
+- [Truffle Teams](https://www.trufflesuite.com/teams)
+## Front-End
+- [Drizzle](https://www.trufflesuite.com/drizzle)
+
+
 ## Docs
 
 ## Tutorials
