@@ -42,6 +42,11 @@
 
 ### Front-End
 - [Drizzle](https://www.trufflesuite.com/drizzle)
+- [Uniswap Frontend](https://github.com/Uniswap/uniswap-frontend)
+- [Truffle React Box](https://www.trufflesuite.com/boxes/react)
+
+### Utilities
+- [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)
 
 ## Docs
 
