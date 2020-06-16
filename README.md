@@ -47,6 +47,8 @@
 
 ### Utilities
 - [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)
+- [Etherscan](https://etherscan.io/)
+- [Tenderly](https://tenderly.co/)
 
 ## Docs
 
