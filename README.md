@@ -26,6 +26,7 @@
 
 ### Forum
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
+- [Ethereum StackExchange](https://ethereum.stackexchange.com/)
 - [Maker Forum](https://forum.makerdao.com/)
 
 ### News
@@ -43,7 +44,7 @@
 ### Smart Contracts
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
-- [OpenGSN](https://docs.opengsn.org/contracts/index.html)
+- [OpenGSN](https://github.com/opengsn/gsn)
 - [IPFS](https://github.com/ipfs/ipfs)
 - [AZTEC Protocol](https://github.com/AztecProtocol/AZTEC)
 - [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
@@ -71,6 +72,16 @@
 - [Playroom](https://github.com/seek-oss/playroom)
 
 ## Docs
+- [Solidity](https://solidity.readthedocs.io/en/latest/)
+- [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/)
+- [OpenGSN](https://docs.opengsn.org/contracts/index.html)
+- [Truffle](https://www.trufflesuite.com/docs/truffle/overview)
+- [Ganache](https://www.trufflesuite.com/docs/ganache/overview)
+- [Drizzle](https://www.trufflesuite.com/docs/drizzle/overview)
+- [Truffle Teams](https://www.trufflesuite.com/docs/teams/overview)
+- [Web3.js](https://web3js.readthedocs.io/)
+- [Ethers.js](https://docs.ethers.io/)
+
 
 ## Tutorials
 
