@@ -7,6 +7,7 @@
 - [Community](#community)
   - [Chat](#chat)
   - [Forum](#forum)
+  - [Blogs](#blogs)
   - [News](#news)
   - [Awesome](#awesome)
 - [Tools](#tools)
@@ -29,6 +30,11 @@
 - [Ethereum StackExchange](https://ethereum.stackexchange.com/)
 - [Maker Forum](https://forum.makerdao.com/)
 
+### Blogs
+- [Solidity](https://solidity.ethereum.org/)
+- [Vitalik](https://vitalik.ca/)
+- [IPFS](https://blog.ipfs.io/)
+- [ConsenSys](https://consensys.net/blog/)
 ### News
 - [Week in Ethereum](https://weekinethereumnews.com/)
 - [EthHub](https://ethhub.substack.com/)
