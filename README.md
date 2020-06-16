@@ -8,6 +8,7 @@
 - [Tools](#tools)
 - [Docs](#docs)
 - [Tutorials](#tutorials)
+- [Security](#security)
 - [References](#references)
 - [License](#license)
 
@@ -34,23 +35,30 @@
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
 - [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
+
 ### Testing
 - [Ganache](https://www.trufflesuite.com/ganache)
-- 
 - [Truffle Teams](https://www.trufflesuite.com/teams)
+
 ### Front-End
 - [Drizzle](https://www.trufflesuite.com/drizzle)
+
+## Docs
+
+## Tutorials
+
+## Security
 
 ### Static Analyzers
 - [Slither](https://github.com/crytic/slither
 - [MythX CLI](https://docs.mythx.io/tools-integrations/mythx-cli)
 - [Remix](https://remix.ethereum.org/)
 
-## Docs
+### Fuzzer
+- [Echidna](https://github.com/crytic/echidna)
 
-## Tutorials
-
-
+### Formal Verification
+- [Manticore](https://github.com/trailofbits/manticore)
 
 ## References
 
