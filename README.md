@@ -28,6 +28,7 @@
 ## Community
 
 ### Chat
+- [Gitter](https://gitter.im/ethereum/solidity/) - ethereum/solidity 
 - [CryptoDevs](https://discord.gg/NC9D7x) - :memo:-solidity-dev 
 - [Maker Chat](https://chat.makerdao.com) - #dev
 - [DappHub Chat](https://dapphub.chat) - #dev
