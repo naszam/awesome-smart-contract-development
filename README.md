@@ -32,7 +32,7 @@
 - [CryptoDevs](https://discord.gg/NC9D7x) - :memo:-solidity-dev 
 - [Maker Chat](https://chat.makerdao.com) - #dev
 - [DappHub Chat](https://dapphub.chat) - #dev
-- [Consensys](https://discord.gg/sEyGNY)  
+- [Consensys](https://discord.gg/sEyGNY) - #developers
 
 ### Forum
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
