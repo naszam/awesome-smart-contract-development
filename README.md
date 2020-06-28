@@ -70,6 +70,7 @@
 ### Testing
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment)
+- [Jest](https://jestjs.io/)
 - [Truffle Teams](https://www.trufflesuite.com/teams)
 
 ### Front-End
@@ -98,7 +99,7 @@
 - [Truffle Teams](https://www.trufflesuite.com/docs/teams/overview)
 - [Web3.js](https://web3js.readthedocs.io/)
 - [Ethers.js](https://docs.ethers.io/)
-
+- [Jest.js](https://jestjs.io/docs/en/using-matchers)
 
 ## Tutorials
 
