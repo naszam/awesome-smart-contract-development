@@ -68,7 +68,7 @@
 
 ### Testing
 - [Ganache](https://www.trufflesuite.com/ganache)
-- [Jest.js](https://jestjs.io/)
+- [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment)
 - [Truffle Teams](https://www.trufflesuite.com/teams)
 
 ### Front-End
