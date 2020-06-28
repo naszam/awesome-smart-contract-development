@@ -12,7 +12,7 @@
   - [Awesome](#awesome)
 - [Tools](#tools)
   - [Smart Contracts](#smart-contracts)
-  - [Testing](#testing)
+  - [Tests](#tests)
   - [Front-End](#front-end)
   - [Utilities](#utilities)
 - [Docs](#docs)
@@ -67,7 +67,7 @@
 - [Truffle HD Wallet Provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 
-### Testing
+### Tests
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment)
 - [Jest](https://jestjs.io/)
