@@ -24,6 +24,13 @@
   - [Formal Verification](#formal-verification)
 - [Certifications](#certifications)
 - [Crypto Degree](#crypto-degree)
+  - [Consensus Algorithms](#consensus-algorithms)
+  - [Mining](#mining)
+  - [Public and Private Blockchains](#public-and-private-blockchains)
+  - [Distributed Ledger Platforms](#distributed-ledger-platforms)
+  - [Cryptographic Hash Functions](#cryptographic-hash-functions)
+  - [Public Key Cryptography](#public-key-cryptography)
+  - [Merkle Trees](#merkle-trees)
 - [References](#references)
 - [License](#license)
 
