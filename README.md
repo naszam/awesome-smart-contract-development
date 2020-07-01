@@ -31,6 +31,12 @@
   - [Cryptographic Hash Functions](#cryptographic-hash-functions)
   - [Public Key Cryptography](#public-key-cryptography)
   - [Merkle Trees](#merkle-trees)
+  - [Blockchain Structure](#blockchain-structure)
+  - [Smart Contracts](#smart-contracts)
+  - [Nodes](#nodes)
+  - [Blockchain Forks](#blockchain-forks)
+  - [Accounts](#accounts)
+  - [Transactions](#transactions)
 - [References](#references)
 - [License](#license)
 
