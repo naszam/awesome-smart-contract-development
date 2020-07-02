@@ -202,40 +202,112 @@
 - [Solidity Docs on Transactions](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html#transactions)
 - [What is the difference between a transaction and a contract message?](https://ethereum.stackexchange.com/questions/12065/what-is-the-difference-between-a-call-message-call-and-a-message)
 
-
-## References
-- [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
-- [Smart Contracts: Building Blocks for Digital Markets](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
-- [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/whitepaper/)
-- [Ethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)
-
-## Gas and Fees
+### Gas and Fees
 - [Ethereum, Gas, Fuel and Fees - Consensys Media](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
 - [EthGasStation](https://ethgasstation.info/)
 
-## Ethereum Structure
+### Ethereum Structure
 - [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [Ethereum Block Architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture)
 - [Ethereum Development tutorial](https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial)
 - [Ethstats](https://ethstats.net/)
 
-## Ethereum Addresses
+### Ethereum Addresses
 - [Understanding the concept of private keys, public keys and addresses in Ethereum](https://etherworld.co/2017/11/17/understanding-the-concept-of-private-key-public-key-and-address-in-ethereum-blockchain/)
 - [Bitcoin wiki on Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
 - [Ethereum yellow paper](http://gavwood.com/paper.pdf)
 
-## Decentralized Application Development
+### Decentralized Application Development
 - [Why use a blockchain?](https://www.coindesk.com/learn/blockchain-101/how-blockchain-technology-change-finance)
 - [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [A Brief Overview of dapp Development](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c?gi=9ece1030a15c)
 - [Building for Blockchain: Transitioning from Web 2.0 to Web 3.0 ](https://blog.ycombinator.com/building-for-the-blockchain/)
 
-## Development Environment Setup Options
+### Development Environment Setup Options
 - [The Go-Ethereum (Geth) Github Repo](https://github.com/ethereum/go-ethereum/wiki/geth)
 - [Infura: A public API Interface for Ethereum](https://infura.io/)
 
-## Key Developer Tools
-- []()
+### Key Developer Tools
+- [Hyperledger Besu: an open source,  enterprise-grade, Java-based Ethereum client](https://pegasys.tech/solutions/hyperledger-besu/)
+- [Parity: A Rust-based Ethereum client](https://www.parity.io/)
+- [Metamask: Chrome Extension for Ethereum](https://metamask.io/)
+- [Remix: an in-browser IDE for Smart Contract Development](https://remix.ethereum.org/#optimize=false&evmVersion=null)
+- [Truffle: A Blockchain Development Framework](https://www.trufflesuite.com/)
+- [Truffle Ganache: A Private Testnet for Blockchain Development](https://www.trufflesuite.com/ganache)
+- [Web3.js: Javascript Library for Ethereum + front-end integration](https://web3js.readthedocs.io/en/v1.2.9/)
+- [IPFS website: Distributed File Storage Mechanism](https://ipfs.io/)
+- [Swarm documentation: Distributed File Storage within Geth](https://swarm-guide.readthedocs.io/en/latest/introduction.html)
+
+### Geth
+- [Getting started with Geth](https://geth.ethereum.org/docs/getting-started)
+- [Setup Your Own Private Proof of Authority Ethereum Network with Geth](https://hackernoon.com/setup-your-own-private-proof-of-authority-ethereum-network-with-geth-9a0a3750cda8)
+- ["Proof of Authority Chains," Parity Technologies](https://openethereum.github.io/wiki/Proof-of-Authority-Chains)
+- ["Proof-of-Authority Tutorial," Parity Technologies](https://openethereum.github.io/wiki/Demo-PoA-tutorial.html)
+- ["Using Puppeth to Manually Create an Ethereum Proof-of-Authority Clique Network using AWS," Collin Cusce](https://medium.com/@collin.cusce/using-puppeth-to-manually-create-an-ethereum-proof-of-authority-clique-network-on-aws-ae0d7c906cce)
+- [Clique PoA Protocol Details, Péter Szilágyi & Ethereum Foundation](https://github.com/ethereum/EIPs/issues/225)
+- [Cliquebait Repo, from FOAM](https://github.com/f-o-a-m/cliquebait)
+
+### MetaMask
+- [Metamask.io](https://metamask.io/)
+- [Metamask developer documentation](https://docs.metamask.io/guide/)
+
+### Ganache CLI
+- [Ganache-cli on npm](https://www.npmjs.com/package/ganache-cli)
+
+### Truffle
+- [Truffle Boxes](https://www.trufflesuite.com/boxes)
+- [Creating a Project with Truffle ](https://www.trufflesuite.com/docs/truffle/getting-started/creating-a-project)
+
+### Ganache GUI
+- [Download Ganache GUI](https://www.trufflesuite.com/ganache)
+- [Ganache Documentation](https://www.trufflesuite.com/docs/ganache/overview)
+
+### Solidity Fundamentals
+
+#### Data Types and Variables
+- [Solidity Docs - Types](https://solidity.readthedocs.io/en/latest/types.html) 
+- [Solidity Docs - Contract Types](https://solidity.readthedocs.io/en/latest/types.html#contract-types)
+ 
+#### Functions
+- [Solidity docs - Functions](https://solidity.readthedocs.io/en/latest/contracts.html#functions)
+- [Solidity docs - Function Types](https://solidity.readthedocs.io/en/latest/types.html?highlight=function%20types#function-types)
+
+#### Storage and Memory
+- [Difference between memory and storage](https://ethereum.stackexchange.com/questions/1232/difference-between-memory-and-storage)
+- [Storage, Memory and the Stack](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html#storage-memory-and-the-stack)
+- [Data location -- Solidity Docs](https://solidity.readthedocs.io/en/latest/types.html#data-location)
+
+#### Contract Structure
+- [Structure of a Contract](https://solidity.readthedocs.io/en/develop/structure-of-a-contract.html)
+- [Smart contracts as a State Machine](https://solidity.readthedocs.io/en/develop/common-patterns.html?#state-machine)
+- [Solidity Assembly Code](https://solidity.readthedocs.io/en/latest/assembly.html)
+
+#### Reading Smart Contracts with Remix
+- [SimpleStorage.sol](https://gist.github.com/ConsenSys-Academy/6d93a805ce0e90d8a793a4eb6e69b4c5#file-simplestorage-sol)
+- [Solidity by Example - Solidity Docs](https://solidity.readthedocs.io/en/latest/solidity-by-example.html)
+
+#### Smart Contract ABI
+- [Solidity Docs - ABI](https://solidity.readthedocs.io/en/latest/abi-spec.html)
+- [What is the ABI and why is it needed to interact with contracts](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts)
+
+#### Events and Logs
+- [Technical introduction to Events and Logs in Ethereum by Joseph Chow, Consensys Media](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
+- [Events - Solidity Docs](https://solidity.readthedocs.io/en/latest/contracts.html#events)
+- [Listening to events with web3.js](https://web3js.readthedocs.io/en/v1.2.9/web3-eth-subscribe.html?highlight=events#subscribe-logs) 
+- [Listening to events via the contract object](https://web3js.readthedocs.io/en/v1.2.9/web3-eth-contract.html#contract-events)
+
+#### Factory Contracts
+- [Manage several contracts with Factories](https://ethereumdev.io/interact-with-other-contracts-from-solidity/)
+- [EIP20](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol)
+- [EIP20 Token Factory](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20Factory.sol)
+
+
+### References
+- [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
+- [Smart Contracts: Building Blocks for Digital Markets](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
+- [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/whitepaper/)
+- [Ethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
