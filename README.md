@@ -209,8 +209,33 @@
 - [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/whitepaper/)
 - [Ethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)
 
+## Gas and Fees
+- [Ethereum, Gas, Fuel and Fees - Consensys Media](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
+- [EthGasStation](https://ethgasstation.info/)
 
+## Ethereum Structure
+- [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+- [Ethereum Block Architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture)
+- [Ethereum Development tutorial](https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial)
+- [Ethstats](https://ethstats.net/)
 
+## Ethereum Addresses
+- [Understanding the concept of private keys, public keys and addresses in Ethereum](https://etherworld.co/2017/11/17/understanding-the-concept-of-private-key-public-key-and-address-in-ethereum-blockchain/)
+- [Bitcoin wiki on Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
+- [Ethereum yellow paper](http://gavwood.com/paper.pdf)
+
+## Decentralized Application Development
+- [Why use a blockchain?](https://www.coindesk.com/learn/blockchain-101/how-blockchain-technology-change-finance)
+- [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+- [A Brief Overview of dapp Development](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c?gi=9ece1030a15c)
+- [Building for Blockchain: Transitioning from Web 2.0 to Web 3.0 ](https://blog.ycombinator.com/building-for-the-blockchain/)
+
+## Development Environment Setup Options
+- [The Go-Ethereum (Geth) Github Repo](https://github.com/ethereum/go-ethereum/wiki/geth)
+- [Infura: A public API Interface for Ethereum](https://infura.io/)
+
+## Key Developer Tools
+- []()
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
