@@ -311,8 +311,8 @@
 
 #### Factory Contracts
 - [Manage several contracts with Factories](https://ethereumdev.io/interact-with-other-contracts-from-solidity/)
-- [EIP20](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol)
-- [EIP20 Token Factory](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20Factory.sol)
+- [EIP20.sol by ConsenSys](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol)
+- [EIP20Factory.sol by ConsenSys](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20Factory.sol)
 
 
 ### References
