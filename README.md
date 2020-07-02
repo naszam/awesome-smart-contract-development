@@ -140,55 +140,61 @@
 
 ## Crypto Degree
 
-### Consensus Algorithms
+### Blockchain Technology
+
+#### Consensus Algorithms
 - [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault#Byzantine_Generals'_Problem)
 - [Types of Consensus](https://mastanbtc.github.io/blockchainnotes/consensustypes/)
 - [Podcast: Overview and History of Consensus System Development](https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman/)
 - [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
 
-### Mining
+#### Mining
 - [Live visualization of block formation](http://ethviewer.live/)
 - [Ethereum Wiki on Mining](https://eth.wiki/en/fundamentals/mining)
 
-### Public and Private Blockchains
+#### Public and Private Blockchains
 - [On public and private blockchains by Vitalik Buterin](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 
-### Distributed Ledger Platforms
+#### Distributed Ledger Platforms
 - [Enterprise Blockchain Protocols: A Technical Analysis of Ethereum vs Fabric vs Corda](https://www.kaleido.io/blockchain-blog/enterprise-blockchain-protocols-a-technical-analysis-of-ethereum-vs-fabric-vs-corda)
 
-### Cryptographic Hash Functions
+### Blockchain Primitives
+
+#### Cryptographic Hash Functions
 - [Blockchain Underpinnings: Hashing by ConsenSys Media](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
 - [Cryptographic hash functions on Wikipedia](https://simple.wikipedia.org/wiki/Cryptographic_hash_function)
 - [Cryptographic hash functions by the Kahn Academy](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-cryptographic-hash-function)
 - [Video: Hashing Algorithms and Security by Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 
-### Public Key Cryptography
+#### Public Key Cryptography
 - [How are Ethereum addresses generated?](https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated)
 - [Wikipedia: Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
-### Merkle Trees
+#### Merkle Trees
 - [Merkling in Ethereum by Vitalik Buterin](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 - [Ever Wonder How Merkle Trees Work? by ConsenSys Media](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
 - [Patricia Merkle Trees](https://eth.wiki/en/fundamentals/patricia-tree)
 
-### Blockchain Structure
+#### Blockchain Structure
 - [A visual demonstration of a blockchain data structure](https://andersbrownworth.com/blockchain/)
 - [Bitcoin Wiki - Blockchain](https://en.bitcoin.it/wiki/Block_chain)
 - [https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
-### Smart Contracts
+#### Smart Contracts
 - [Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#)
 - [What is a smart contract?](https://coinsutra.com/smart-contracts/)
 
-### Nodes
+#### Nodes
 - [What is an Ethereum node?](https://www.reddit.com/r/ethereum/comments/4dx6km/newbie_question_what_is_ethereum_node/)
 
-### Blockchain Forks
+#### Blockchain Forks
 - [Hard Forks, Soft Forks, Defaults and Coercion by Vitalik Buterin](https://vitalik.ca/general/2017/03/14/forks_and_markets.html)
 - [Short guide to bitcoin forks - Coindesk](https://www.coindesk.com/short-guide-bitcoin-forks-explained)
 - [Map of coins: Visualized history of Bitcoin forks and altcoins](https://mapofcoins.com/bitcoin)
 
-### Accounts
+### Ethereum Basics
+
+#### Accounts
 - [Hexadecimal format](https://en.wikipedia.org/wiki/Hexadecimal)
 - [How are Ethereum Addresses Generated?](https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated)
 - [Solidity Docs on Accounts](https://solidity.readthedocs.io/en/v0.4.20/introduction-to-smart-contracts.html#accounts)
@@ -197,37 +203,39 @@
 - [How is the address of an Ethereum contract computed?](https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethereum-contract-computed)
 - [More about CREATE2](https://ethgasstation.info/blog/what-is-create2/)
 
-### Transactions
+#### Transactions
 - [How does Ethereum verify contract execution?](https://www.quora.com/How-does-Ethereum-verify-contract-execution)
 - [Solidity Docs on Transactions](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html#transactions)
 - [What is the difference between a transaction and a contract message?](https://ethereum.stackexchange.com/questions/12065/what-is-the-difference-between-a-call-message-call-and-a-message)
 
-### Gas and Fees
+#### Gas and Fees
 - [Ethereum, Gas, Fuel and Fees - Consensys Media](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
 - [EthGasStation](https://ethgasstation.info/)
 
-### Ethereum Structure
+#### Ethereum Structure
 - [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [Ethereum Block Architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture)
 - [Ethereum Development tutorial](https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial)
 - [Ethstats](https://ethstats.net/)
 
-### Ethereum Addresses
+#### Ethereum Addresses
 - [Understanding the concept of private keys, public keys and addresses in Ethereum](https://etherworld.co/2017/11/17/understanding-the-concept-of-private-key-public-key-and-address-in-ethereum-blockchain/)
 - [Bitcoin wiki on Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
 - [Ethereum yellow paper](http://gavwood.com/paper.pdf)
 
-### Decentralized Application Development
+### Traditional and Decentralized Application Development
+
+#### Decentralized Application Development
 - [Why use a blockchain?](https://www.coindesk.com/learn/blockchain-101/how-blockchain-technology-change-finance)
 - [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [A Brief Overview of dapp Development](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c?gi=9ece1030a15c)
 - [Building for Blockchain: Transitioning from Web 2.0 to Web 3.0 ](https://blog.ycombinator.com/building-for-the-blockchain/)
 
-### Development Environment Setup Options
+#### Development Environment Setup Options
 - [The Go-Ethereum (Geth) Github Repo](https://github.com/ethereum/go-ethereum/wiki/geth)
 - [Infura: A public API Interface for Ethereum](https://infura.io/)
 
-### Key Developer Tools
+#### Key Developer Tools
 - [Hyperledger Besu: an open source,  enterprise-grade, Java-based Ethereum client](https://pegasys.tech/solutions/hyperledger-besu/)
 - [Parity: A Rust-based Ethereum client](https://www.parity.io/)
 - [Metamask: Chrome Extension for Ethereum](https://metamask.io/)
@@ -238,7 +246,7 @@
 - [IPFS website: Distributed File Storage Mechanism](https://ipfs.io/)
 - [Swarm documentation: Distributed File Storage within Geth](https://swarm-guide.readthedocs.io/en/latest/introduction.html)
 
-### Geth
+#### Geth
 - [Getting started with Geth](https://geth.ethereum.org/docs/getting-started)
 - [Setup Your Own Private Proof of Authority Ethereum Network with Geth](https://hackernoon.com/setup-your-own-private-proof-of-authority-ethereum-network-with-geth-9a0a3750cda8)
 - ["Proof of Authority Chains," Parity Technologies](https://openethereum.github.io/wiki/Proof-of-Authority-Chains)
@@ -247,18 +255,20 @@
 - [Clique PoA Protocol Details, Péter Szilágyi & Ethereum Foundation](https://github.com/ethereum/EIPs/issues/225)
 - [Cliquebait Repo, from FOAM](https://github.com/f-o-a-m/cliquebait)
 
-### MetaMask
+### Development Frameworks and Environment
+
+#### MetaMask
 - [Metamask.io](https://metamask.io/)
 - [Metamask developer documentation](https://docs.metamask.io/guide/)
 
-### Ganache CLI
+#### Ganache CLI
 - [Ganache-cli on npm](https://www.npmjs.com/package/ganache-cli)
 
-### Truffle
+#### Truffle
 - [Truffle Boxes](https://www.trufflesuite.com/boxes)
 - [Creating a Project with Truffle ](https://www.trufflesuite.com/docs/truffle/getting-started/creating-a-project)
 
-### Ganache GUI
+#### Ganache GUI
 - [Download Ganache GUI](https://www.trufflesuite.com/ganache)
 - [Ganache Documentation](https://www.trufflesuite.com/docs/ganache/overview)
 
