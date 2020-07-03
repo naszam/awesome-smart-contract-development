@@ -336,6 +336,30 @@
 - [EIP20.sol by ConsenSys](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol)
 - [EIP20Factory.sol by ConsenSys](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20Factory.sol)
 
+### Writing Smart Contracts
+
+#### Introductory Smart Contracts
+- [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorials/pet-shop)
+
+#### Inter-Contract Execution
+- [BaseCaller.sol](https://gist.github.com/critesjosh/50eb7f243cf960ebf6240fae52c14e63)
+- [ContextSwitcher.sol](https://gist.github.com/ConsenSys-Academy/de1b2000f3682f0cfba784d0cb5400e7)
+- [Difference between call, callcode and delegatecall - stackexchange](https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall)
+- [Interactions between contracts](https://dappsforbeginners.wordpress.com/tutorials/interactions-between-contracts/)
+
+#### Inheritance
+- [Inheritance in Solidity](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
+- [Inheritance, from the Solidity Docs](https://solidity.readthedocs.io/en/develop/contracts.html#inheritance)
+- [Abstract contracts](https://solidity.readthedocs.io/en/latest/contracts.html#abstract-contracts)
+- [Interfaces](https://solidity.readthedocs.io/en/latest/contracts.html#interfaces)
+
+#### Libraries and the Ethereum Package Manager
+- [Library Driven Development inSolidity](https://medium.com/aragondec/library-driven-development-in-solidity-2bebcaf88736)
+- [Libraries in the Solidity Docs](https://solidity.readthedocs.io/en/develop/contracts.html#libraries)
+- [Linking to deployed libraries with Truffle migrations](https://www.trufflesuite.com/docs/truffle/getting-started/running-migrations#deployer-link-library-destinations-)
+- [What are the steps to compile and deploy a library in solidity?](https://ethereum.stackexchange.com/questions/6927/what-are-the-steps-to-compile-and-deploy-a-library-in-solidity)
+- [Package Management with EthPM in Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/package-management-via-ethpm)
+- [EthPM: Reusable Smart Contract Packages](https://medium.com/coinmonks/ethpm-smart-contract-packages-for-developers-81c77481c491)
 
 ### References
 - [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
