@@ -62,6 +62,11 @@
     - [Smart Contract ABI](#smart-contract-abi)
     - [Events and Logs](#events-and-logs)
     - [Factory Contracts](#factory-contracts)
+  - [Writing Smart Contracts](#writing-smart-contracts)
+    - [Introductory Smart Contracts](#introductory-smart-contracts)
+    - [Inter-Contract Execution](#inter-contract-execution)
+    - [Inheritance](#inheritance)
+    - [Libraries and the Ethereum Package Manager](#libraries-and-the-ethereum-package-manager)
 - [References](#references)
 - [License](#license)
 
