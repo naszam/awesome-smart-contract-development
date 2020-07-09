@@ -9,7 +9,7 @@
   - [Forum](#forum)
   - [Blogs](#blogs)
   - [News](#news)
-  - [Awesome](#awesome)
+  - [Lists](#lists)
 - [Tools](#tools)
   - [Smart Contracts](#smart-contracts)
   - [Tests](#tests)
@@ -94,10 +94,11 @@
 - [EthHub](https://ethhub.substack.com/)
 - [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
 
-### Awesome
+### Lists
 - [Awesome IPFS](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it  
 - [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references, guidance, tools, and more.  
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.  
+- [Ethereum Developer Resources](https://ethereum.org/en/developers/)
 
 ## Tools
 
