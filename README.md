@@ -99,6 +99,7 @@
 - [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references, guidance, tools, and more.  
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.  
 - [Ethereum Developer Resources](https://ethereum.org/en/developers/) - Guides, resources, and tools for developers building on Ethereum.  
+- [ConsenSys Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 
 ## Tools
 
