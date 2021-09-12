@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Awesome Smart Contracts ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-smart-contracts-)
+- [Awesome Smart Contracts ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-smart-contracts-)
   - [Table of Contents](#table-of-contents)
   - [Community](#community)
     - [Chat](#chat)
