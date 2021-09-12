@@ -221,6 +221,7 @@
 - [Multi Collateral Dai](https://github.com/makerdao/dss)
 - [DSS ChainLog](https://github.com/makerdao/dss-chain-log)
 - [DSS Deploy](https://github.com/makerdao/dss-deploy)
+- [DSS Deploy Scripts](https://github.com/makerdao/dss-deploy-scripts)
 - [DSS Spells](https://github.com/makerdao/spells-mainnet)
 - [DSS Exec Lib](https://github.com/makerdao/dss-exec-lib)
 - [DSS Ilk Registry](https://github.com/makerdao/ilk-registry)
@@ -230,13 +231,16 @@
 - [DSS PSM](https://github.com/makerdao/dss-psm)
 - [DSS Vest](https://github.com/makerdao/dss-vest)
 - [DSS Charter](https://github.com/makerdao/dss-charter)
+- [DS Token](https://github.com/dapphub/ds-token)
 - [DS Deed](https://github.com/brianmcmichael/ds-deed)
 - [Multicall](https://github.com/makerdao/multicall)
+- [MCD Setzer](https://github.com/makerdao/setzer-mcd)
 - [Single Collateral Dai](https://github.com/makerdao/sai)
 - [Dappsys](https://github.com/dapphub/dappsys)
 - [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
 - [ETH2 Deposit Contract](https://github.com/ethereum/consensus-specs/tree/dev/solidity_deposit_contract)
 - [Maple Finance](https://github.com/maple-labs/maple-core)
+- [Fractional](https://github.com/fractional-company/contracts)
 
 ## Crypto Degree
 
