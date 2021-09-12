@@ -111,7 +111,7 @@
 - [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
 
 ### Lists
-- [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools)
+- [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools) - DappTools Resources
 - [Awesome IPFS](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it  
 - [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references, guidance, tools, and more.  
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.  
