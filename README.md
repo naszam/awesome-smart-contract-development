@@ -162,6 +162,10 @@
 - [Maker Nix Packages](https://github.com/makerdao/makerpkgs)
 - [Docker-DappTools](https://github.com/OdysLam/ddapptools)
 
+### CI/CD
+- [DappTools Maker CI](https://github.com/makerdao/dss/blob/master/.github/workflows/tests.yaml)
+- [DappTools Template CI](https://github.com/gakonst/dapptools-template/blob/master/.github/workflows/ci.yml)
+
 ## Docs
 - [DappTools](https://github.com/dapphub/dapptools#dapp-tools-by-dapphub-)
 - [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp#dapp-)
