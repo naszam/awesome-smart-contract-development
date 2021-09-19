@@ -158,6 +158,9 @@
 - [Tenderly](https://tenderly.co/)
 - [Playroom](https://github.com/seek-oss/playroom)
 
+### Env
+- [Maker Nix Packages](https://github.com/makerdao/makerpkgs)
+
 ## Docs
 - [DappTools](https://github.com/dapphub/dapptools#dapp-tools-by-dapphub-)
 - [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp#dapp-)
