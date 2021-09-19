@@ -211,6 +211,7 @@
 
 ### Formal Verification
 - [Manticore](https://github.com/trailofbits/manticore)
+- [Act](https://github.com/ethereum/act)
 
 ## Certifications
 - [Blockchain Developer Bootcamp ConsenSys Academy](https://consensys.net/academy/bootcamp/)
