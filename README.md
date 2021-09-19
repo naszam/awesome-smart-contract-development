@@ -4,71 +4,80 @@
 
 ## Table of Contents
 
-- [Community](#community)
-  - [Chat](#chat)
-  - [Forum](#forum)
-  - [Blogs](#blogs)
-  - [News](#news)
-  - [Lists](#lists)
-- [Tools](#tools)
-  - [Smart Contracts](#smart-contracts)
-  - [Tests](#tests)
-  - [Front-End](#front-end)
-  - [Utilities](#utilities)
-- [Docs](#docs)
-- [Tutorials](#tutorials)
-  - [Testing](#testing)
-- [Security](#security)
-  - [Static Analyzers](#static-analyzers)
-  - [Fuzzer](#fuzzer)
-  - [Formal Verification](#formal-verification)
-- [Certifications](#certifications)
-- [Crypto Degree](#crypto-degree)
-  - [Blockchain Technology](#blockchain-technology)
-    - [Consensus Algorithms](#consensus-algorithms)
-    - [Mining](#mining)
-    - [Public and Private Blockchains](#public-and-private-blockchains)
-    - [Distributed Ledger Platforms](#distributed-ledger-platforms)
-   - [Blockchain Primitives](#blockchain-primitives)
+- [Awesome Smart Contracts ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-smart-contracts-)
+  - [Table of Contents](#table-of-contents)
+  - [Community](#community)
+    - [Chat](#chat)
+    - [Forum](#forum)
+    - [Blogs](#blogs)
+    - [News](#news)
+    - [Talks](#talks)
+      - [DappTools](#dapptools)
+    - [Lists](#lists)
+  - [Tools](#tools)
+    - [Smart Contracts](#smart-contracts)
+    - [Tests](#tests)
+    - [Front-End](#front-end)
+    - [Utilities](#utilities)
+  - [Docs](#docs)
+  - [Templates](#templates)
+    - [Dapptools](#dapptools-1)
+  - [Tutorials](#tutorials)
+    - [DappTools](#dapptools-2)
+    - [Testing](#testing)
+  - [Security](#security)
+    - [Static Analyzers](#static-analyzers)
+    - [Fuzzer](#fuzzer)
+    - [Formal Verification](#formal-verification)
+  - [Certifications](#certifications)
+  - [Projects](#projects)
+    - [DappTools](#dapptools-3)
+  - [Crypto Degree](#crypto-degree)
+    - [Blockchain Technology](#blockchain-technology)
+      - [Consensus Algorithms](#consensus-algorithms)
+      - [Mining](#mining)
+      - [Public and Private Blockchains](#public-and-private-blockchains)
+      - [Distributed Ledger Platforms](#distributed-ledger-platforms)
+    - [Blockchain Primitives](#blockchain-primitives)
       - [Cryptographic Hash Functions](#cryptographic-hash-functions)
       - [Public Key Cryptography](#public-key-cryptography)
       - [Merkle Trees](#merkle-trees)
       - [Blockchain Structure](#blockchain-structure)
-      - [Smart Contracts](#smart-contracts)
+      - [Smart Contracts](#smart-contracts-1)
       - [Nodes](#nodes)
       - [Blockchain Forks](#blockchain-forks)
-  - [Ethereum Basics](#ethereum-basics)
-    - [Accounts](#accounts)
-    - [Transactions](#transactions)
-    - [Gas and Fees](#gas-and-fees)
-    - [Ethereum Structure](#ethereum-structure)
-    - [Ethereum Addresses](#ethereum-addresses)
-  - [Traditional and Decentralized Application Development](#traditional-and-decentralized-application-development)
-    - [Decentralized Application Development](#decentralized-application-development)
-    - [Development Environment Setup Options](#development-environment-setup-options)
-    - [Key Developer Tools](#key-developer-tools)
-    - [Geth](#geth)
-  - [Development Frameworks and Environment](#development-frameworks-and-environment)
-    - [MetaMask](#metamaks)
-    - [Ganache CLI](#ganache-cli)
-    - [Truffle](#truffle)
-    - [Ganache GUI](#ganache-gui)
-  - [Solidity Fundamentals](#solidity-fundamentals)
-    - [Data Types and Variables](#data-types-and-variables)
-    - [Functions](#functions)
-    - [Storage and Memory](#storage-and-memory)
-    - [Contract Structure](#contract-structure)
-    - [Reading Smart Contracts with Remix](#reading-smart-contracts-with-remix)
-    - [Smart Contract ABI](#smart-contract-abi)
-    - [Events and Logs](#events-and-logs)
-    - [Factory Contracts](#factory-contracts)
-  - [Writing Smart Contracts](#writing-smart-contracts)
-    - [Introductory Smart Contracts](#introductory-smart-contracts)
-    - [Inter-Contract Execution](#inter-contract-execution)
-    - [Inheritance](#inheritance)
-    - [Libraries and the Ethereum Package Manager](#libraries-and-the-ethereum-package-manager)
-- [References](#references)
-- [License](#license)
+    - [Ethereum Basics](#ethereum-basics)
+      - [Accounts](#accounts)
+      - [Transactions](#transactions)
+      - [Gas and Fees](#gas-and-fees)
+      - [Ethereum Structure](#ethereum-structure)
+      - [Ethereum Addresses](#ethereum-addresses)
+    - [Traditional and Decentralized Application Development](#traditional-and-decentralized-application-development)
+      - [Decentralized Application Development](#decentralized-application-development)
+      - [Development Environment Setup Options](#development-environment-setup-options)
+      - [Key Developer Tools](#key-developer-tools)
+      - [Geth](#geth)
+    - [Development Frameworks and Environment](#development-frameworks-and-environment)
+      - [MetaMask](#metamask)
+      - [Ganache CLI](#ganache-cli)
+      - [Truffle](#truffle)
+      - [Ganache GUI](#ganache-gui)
+    - [Solidity Fundamentals](#solidity-fundamentals)
+      - [Data Types and Variables](#data-types-and-variables)
+      - [Functions](#functions)
+      - [Storage and Memory](#storage-and-memory)
+      - [Contract Structure](#contract-structure)
+      - [Reading Smart Contracts with Remix](#reading-smart-contracts-with-remix)
+      - [Smart Contract ABI](#smart-contract-abi)
+      - [Events and Logs](#events-and-logs)
+      - [Factory Contracts](#factory-contracts)
+    - [Writing Smart Contracts](#writing-smart-contracts)
+      - [Introductory Smart Contracts](#introductory-smart-contracts)
+      - [Inter-Contract Execution](#inter-contract-execution)
+      - [Inheritance](#inheritance)
+      - [Libraries and the Ethereum Package Manager](#libraries-and-the-ethereum-package-manager)
+    - [References](#references)
+  - [License](#license)
 
 ## Community
 
@@ -89,12 +98,20 @@
 - [Vitalik](https://vitalik.ca/)
 - [IPFS](https://blog.ipfs.io/)
 - [ConsenSys](https://consensys.net/blog/)
+
 ### News
 - [Week in Ethereum](https://weekinethereumnews.com/)
 - [EthHub](https://ethhub.substack.com/)
 - [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
 
+### Talks
+
+#### DappTools
+- [DappHub](https://www.youtube.com/watch?v=rKQCvUp5q1w)
+- [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
+
 ### Lists
+- [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools) - DappTools Resources
 - [Awesome IPFS](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it  
 - [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references, guidance, tools, and more.  
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.  
@@ -105,6 +122,7 @@
 ## Tools
 
 ### Smart Contracts
+- [DappTools](https://dapp.tools/)
 - [Truffle](https://www.trufflesuite.com/truffle)
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
 - [OpenGSN](https://github.com/opengsn/gsn)
@@ -115,6 +133,7 @@
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 
 ### Tests
+- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm#hevm-)
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment)
 - [Jest](https://jestjs.io/)
@@ -131,12 +150,28 @@
 - [Fleek](https://fleek.co/)
 
 ### Utilities
+- [duppgrade](https://github.com/Rari-Capital/duppgrade)
+- [seth helpers](https://gist.github.com/mds1/3f070676129a095dec372c2d02cedfdd)
+- [HEVM Helpers](https://github.com/brockelmore/HEVMHelpers)
 - [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)
 - [Etherscan](https://etherscan.io/)
 - [Tenderly](https://tenderly.co/)
 - [Playroom](https://github.com/seek-oss/playroom)
 
+### Env
+- [Maker Nix Packages](https://github.com/makerdao/makerpkgs)
+- [Docker-DappTools](https://github.com/OdysLam/ddapptools)
+
+### CI/CD
+- [DappTools Maker CI](https://github.com/makerdao/dss/blob/master/.github/workflows/tests.yaml)
+- [DappTools Template CI](https://github.com/gakonst/dapptools-template/blob/master/.github/workflows/ci.yml)
+
 ## Docs
+- [DappTools](https://github.com/dapphub/dapptools#dapp-tools-by-dapphub-)
+- [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp#dapp-)
+- [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth#seth)
+- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm#hevm-)
+- [Ethsign](https://github.com/dapphub/dapptools/tree/master/src/ethsign#ethsign)
 - [Solidity](https://solidity.readthedocs.io/en/latest/)
 - [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/)
 - [OpenGSN](https://docs.opengsn.org/contracts/index.html)
@@ -148,7 +183,24 @@
 - [Ethers.js](https://docs.ethers.io/)
 - [Jest.js](https://jestjs.io/docs/en/using-matchers)
 
+## Templates
+
+### Dapptools
+- [DappTools Template](https://github.com/gakonst/dapptools-template)
+
 ## Tutorials
+
+### DappTools
+- [DappTools Basic Usage](https://github.com/dapphub/dapptools/tree/master/src/dapp#basic-usage-a-tutorial)
+- [Introduction to Seth](https://docs.makerdao.com/clis/seth)
+- [Symbolic Execution With ds-test](https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test/)
+- [HEVM and Seth Cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/)
+- [Use dapp.tools for Ethereum Contract Development](https://medium.com/coinmonks/use-dapp-tools-for-ethereum-contract-development-2775d8b2ba0)
+- [Programming a simple ERC20 token - Part 1](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD) :movie_camera:
+- [Programming a simple ERC20 token - Part 2](https://www.youtube.com/watch?v=ifHdJQM6AlE) :movie_camera:
+- [Programming a simple ERC20 token - Part 3](https://www.youtube.com/watch?v=ejkaRMcW2JM) :movie_camera:
+- [Programming a simple ERC20 token - Part 4](https://www.youtube.com/watch?v=PRXZ499LqNk) :movie_camera:
+- [Programming a simple ERC20 token - Part 5](https://www.youtube.com/watch?v=qs4Q-BMb9ms) :movie_camera:
 
 ### Testing
 - [OpenZeppelin Test Environment](https://docs.openzeppelin.com/test-environment/0.1/getting-started)
@@ -167,9 +219,37 @@
 
 ### Formal Verification
 - [Manticore](https://github.com/trailofbits/manticore)
+- [Act](https://github.com/ethereum/act)
 
 ## Certifications
 - [Blockchain Developer Bootcamp ConsenSys Academy](https://consensys.net/academy/bootcamp/)
+
+## Projects
+
+### DappTools
+- [Multi Collateral Dai](https://github.com/makerdao/dss)
+- [DSS ChainLog](https://github.com/makerdao/dss-chain-log)
+- [DSS Deploy](https://github.com/makerdao/dss-deploy)
+- [DSS Deploy Scripts](https://github.com/makerdao/dss-deploy-scripts)
+- [DSS Spells](https://github.com/makerdao/spells-mainnet)
+- [DSS Exec Lib](https://github.com/makerdao/dss-exec-lib)
+- [DSS Ilk Registry](https://github.com/makerdao/ilk-registry)
+- [DSS Proxy Actions](https://github.com/makerdao/dss-proxy-actions)
+- [DSS CDP Manager](https://github.com/makerdao/dss-cdp-manager)
+- [DSS MegaPoker](https://github.com/makerdao/megapoker)
+- [DSS PSM](https://github.com/makerdao/dss-psm)
+- [DSS Vest](https://github.com/makerdao/dss-vest)
+- [DSS Charter](https://github.com/makerdao/dss-charter)
+- [DS Token](https://github.com/dapphub/ds-token)
+- [DS Deed](https://github.com/brianmcmichael/ds-deed)
+- [Multicall](https://github.com/makerdao/multicall)
+- [MCD Setzer](https://github.com/makerdao/setzer-mcd)
+- [Single Collateral Dai](https://github.com/makerdao/sai)
+- [Dappsys](https://github.com/dapphub/dappsys)
+- [Dappsys V2](https://github.com/dapp-org/dappsys-v2)
+- [ETH2 Deposit Contract](https://github.com/ethereum/consensus-specs/tree/dev/solidity_deposit_contract)
+- [Maple Finance](https://github.com/maple-labs/maple-core)
+- [Fractional](https://github.com/fractional-company/contracts)
 
 ## Crypto Degree
 
