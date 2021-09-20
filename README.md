@@ -216,6 +216,7 @@
 
 ### Static Analyzers
 - [Slither](https://github.com/crytic/slither)
+- [Securify v2.0](https://github.com/eth-sri/securify2)
 - [MythX CLI](https://docs.mythx.io/tools-integrations/mythx-cli)
 - [Remix](https://remix.ethereum.org/)
 
