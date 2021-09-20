@@ -251,6 +251,7 @@
 - [ETH2 Deposit Contract](https://github.com/ethereum/consensus-specs/tree/dev/solidity_deposit_contract)
 - [Maple Finance](https://github.com/maple-labs/maple-core)
 - [Fractional](https://github.com/fractional-company/contracts)
+- [K DSS](https://github.com/dapphub/k-dss)
 
 ## Crypto Degree
 
