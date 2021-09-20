@@ -94,6 +94,7 @@
 - [Ethereum Magicians Forum](https://ethereum-magicians.org/)
 - [Maker Forum](https://forum.makerdao.com/)
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
+- [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
 - [Ethereum StackExchange](https://ethereum.stackexchange.com/)
 
 ### Blogs
