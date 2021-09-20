@@ -87,6 +87,7 @@
 - [Maker Chat](https://chat.makerdao.com) - #dev
 - [DappHub Chat](https://dapphub.chat) - #dev
 - [Consensys](https://discord.gg/sEyGNY) - #developers
+- [Empire Hacking Slack ](https://empireslacking.herokuapp.com/) - #ethereum
 
 ### Forum
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
