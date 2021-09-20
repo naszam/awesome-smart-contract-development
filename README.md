@@ -82,17 +82,17 @@
 ## Community
 
 ### Chat
-- [Gitter](https://gitter.im/ethereum/solidity/) - ethereum/solidity 
-- [CryptoDevs](https://discord.gg/NC9D7x) - :memo:-solidity-dev 
+- [Consensys](https://discord.gg/sEyGNY) - #developers
 - [Maker Chat](https://chat.makerdao.com) - #dev
 - [DappHub Chat](https://dapphub.chat) - #dev
-- [Consensys](https://discord.gg/sEyGNY) - #developers
 - [Empire Hacking Slack ](https://empireslacking.herokuapp.com/) - #ethereum
+- [CryptoDevs](https://discord.gg/NC9D7x) - :memo:-solidity-dev
+- [Gitter](https://gitter.im/ethereum/solidity/) - ethereum/solidity
 
 ### Forum
+- [Maker Forum](https://forum.makerdao.com/)
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
 - [Ethereum StackExchange](https://ethereum.stackexchange.com/)
-- [Maker Forum](https://forum.makerdao.com/)
 
 ### Blogs
 - [Solidity](https://solidity.ethereum.org/)
