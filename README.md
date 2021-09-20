@@ -91,6 +91,7 @@
 
 ### Forum
 - [Solidity Forum](https://forum.soliditylang.org/)
+- [Ethereum Magicians Forum](https://ethereum-magicians.org/)
 - [Maker Forum](https://forum.makerdao.com/)
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
 - [Ethereum StackExchange](https://ethereum.stackexchange.com/)
