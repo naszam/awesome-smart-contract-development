@@ -246,6 +246,7 @@
 - [DSS Charter](https://github.com/makerdao/dss-charter)
 - [DS Token](https://github.com/dapphub/ds-token)
 - [DS Deed](https://github.com/brianmcmichael/ds-deed)
+- [Chai](https://github.com/dapphub/chai)
 - [Multicall](https://github.com/makerdao/multicall)
 - [MCD Setzer](https://github.com/makerdao/setzer-mcd)
 - [Single Collateral Dai](https://github.com/makerdao/sai)
