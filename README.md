@@ -11,6 +11,7 @@
     - [Forum](#forum)
     - [Blogs](#blogs)
     - [News](#news)
+    - [Podcasts](#podcasts)
     - [Talks](#talks)
       - [DappTools](#dapptools)
     - [Lists](#lists)
