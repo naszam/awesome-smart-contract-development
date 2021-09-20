@@ -90,6 +90,7 @@
 - [Gitter](https://gitter.im/ethereum/solidity/) - ethereum/solidity
 
 ### Forum
+- [Solidity Forum](https://forum.soliditylang.org/)
 - [Maker Forum](https://forum.makerdao.com/)
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
 - [Ethereum StackExchange](https://ethereum.stackexchange.com/)
