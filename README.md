@@ -218,6 +218,7 @@
 - [Echidna](https://github.com/crytic/echidna)
 
 ### Formal Verification
+- [KLab](https://github.com/makerdao/klab)
 - [Manticore](https://github.com/trailofbits/manticore)
 - [Act](https://github.com/ethereum/act)
 
