@@ -97,6 +97,7 @@
 ### Blogs
 - [Solidity](https://solidity.ethereum.org/)
 - [Vitalik](https://vitalik.ca/)
+- [Samczsun](https://samczsun.com/)
 - [IPFS](https://blog.ipfs.io/)
 - [ConsenSys](https://consensys.net/blog/)
 
