@@ -109,6 +109,11 @@
 - [EthHub](https://ethhub.substack.com/)
 - [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
 
+### Podcasts
+- [ZK Podcast](https://zeroknowledge.fm/)
+- [Bankless Podcast](http://podcast.banklesshq.com/)
+- [The Defiant Podcast](https://thedefiant.io/podcast/)
+
 ### Talks
 
 #### DappTools
