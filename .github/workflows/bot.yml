@@ -3,7 +3,7 @@ name: Bot
 on: [push, pull_request]
 
 jobs:
-  test:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,3 +15,4 @@ jobs:
         run: gem install awesome_bot
       - name: Check URLs
         run: awesome_bot README.md --allow-redirect --request-delay 0.2
+
