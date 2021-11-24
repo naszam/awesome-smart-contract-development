@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Awesome Smart Contracts ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-smart-contracts-)
+- [Awesome Smart Contracts ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-smart-contracts-)
   - [Table of Contents](#table-of-contents)
   - [Community](#community)
     - [Chat](#chat)
@@ -20,6 +20,8 @@
     - [Tests](#tests)
     - [Front-End](#front-end)
     - [Utilities](#utilities)
+    - [Env](#env)
+    - [CI/CD](#cicd)
   - [Docs](#docs)
   - [Templates](#templates)
     - [Dapptools](#dapptools-1)
@@ -128,7 +130,7 @@
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.  
 - [Ethereum Developer Resources](https://ethereum.org/en/developers/) - Guides, resources, and tools for developers building on Ethereum.  
 - [ConsenSys Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
-- [Truffle University Resources](https://resources.truffle.university/) - A living collection of resources in Truffle University's courses.
+- [Truffle University Resources](https://github.com/truffleuniversity/resources) - A living collection of resources in Truffle University's courses.
 
 ## Tools
 
@@ -144,7 +146,7 @@
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener)
 
 ### Tests
-- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm#hevm-)
+- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm)
 - [Ganache](https://www.trufflesuite.com/ganache)
 - [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment)
 - [Jest](https://jestjs.io/)
@@ -295,7 +297,6 @@
 - [Video: Hashing Algorithms and Security by Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 
 #### Public Key Cryptography
-- [How are Ethereum addresses generated?](https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated)
 - [Wikipedia: Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
 #### Merkle Trees
@@ -306,7 +307,7 @@
 #### Blockchain Structure
 - [A visual demonstration of a blockchain data structure](https://andersbrownworth.com/blockchain/)
 - [Bitcoin Wiki - Blockchain](https://en.bitcoin.it/wiki/Block_chain)
-- [https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
+- [Blockchain Basics](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics)
 
 #### Smart Contracts
 - [Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#)
@@ -361,15 +362,15 @@
 
 #### Development Environment Setup Options
 - [The Go-Ethereum (Geth) Github Repo](https://github.com/ethereum/go-ethereum/wiki/geth)
-- [Infura: A public API Interface for Ethereum](https://infura.io/)
+- [Infura: A public API Interface for Ethereum](https://infura.io/product/overview)
 
 #### Key Developer Tools
 - [Hyperledger Besu: an open source,  enterprise-grade, Java-based Ethereum client](https://pegasys.tech/solutions/hyperledger-besu/)
 - [Parity: A Rust-based Ethereum client](https://www.parity.io/)
-- [Metamask: Chrome Extension for Ethereum](https://metamask.io/)
+- [Metamask: Chrome Extension for Ethereum](https://metamask.io/download.html)
 - [Remix: an in-browser IDE for Smart Contract Development](https://remix.ethereum.org/#optimize=false&evmVersion=null)
 - [Truffle: A Blockchain Development Framework](https://www.trufflesuite.com/)
-- [Truffle Ganache: A Private Testnet for Blockchain Development](https://www.trufflesuite.com/ganache)
+- [Truffle Ganache: A Private Testnet for Blockchain Development](https://www.trufflesuite.com/docs/ganache/overview)
 - [Web3.js: Javascript Library for Ethereum + front-end integration](https://web3js.readthedocs.io/en/v1.2.9/)
 - [IPFS website: Distributed File Storage Mechanism](https://ipfs.io/)
 - [Swarm documentation: Distributed File Storage within Geth](https://swarm-guide.readthedocs.io/en/latest/introduction.html)
@@ -377,8 +378,8 @@
 #### Geth
 - [Getting started with Geth](https://geth.ethereum.org/docs/getting-started)
 - [Setup Your Own Private Proof of Authority Ethereum Network with Geth](https://hackernoon.com/setup-your-own-private-proof-of-authority-ethereum-network-with-geth-9a0a3750cda8)
-- ["Proof of Authority Chains," Parity Technologies](https://openethereum.github.io/wiki/Proof-of-Authority-Chains)
-- ["Proof-of-Authority Tutorial," Parity Technologies](https://openethereum.github.io/wiki/Demo-PoA-tutorial.html)
+- ["Proof of Authority Chains," Parity Technologies](https://openethereum.github.io/Proof-of-Authority-Chains.html)
+- ["Proof-of-Authority Tutorial," Parity Technologies](https://openethereum.github.io/Demo-PoA-tutorial.html)
 - ["Using Puppeth to Manually Create an Ethereum Proof-of-Authority Clique Network using AWS," Collin Cusce](https://medium.com/@collin.cusce/using-puppeth-to-manually-create-an-ethereum-proof-of-authority-clique-network-on-aws-ae0d7c906cce)
 - [Clique PoA Protocol Details, Péter Szilágyi & Ethereum Foundation](https://github.com/ethereum/EIPs/issues/225)
 - [Cliquebait Repo, from FOAM](https://github.com/f-o-a-m/cliquebait)
@@ -387,7 +388,7 @@
 
 #### MetaMask
 - [Metamask.io](https://metamask.io/)
-- [Metamask developer documentation](https://docs.metamask.io/guide/)
+- [Metamask Developer Documentation](https://docs.metamask.io/guide/)
 
 #### Ganache CLI
 - [Ganache-cli on npm](https://www.npmjs.com/package/ganache-cli)
@@ -397,7 +398,7 @@
 - [Creating a Project with Truffle ](https://www.trufflesuite.com/docs/truffle/getting-started/creating-a-project)
 
 #### Ganache GUI
-- [Download Ganache GUI](https://www.trufflesuite.com/ganache)
+- [Download Ganache GUI](https://github.com/trufflesuite/ganache-ui/releases)
 - [Ganache Documentation](https://www.trufflesuite.com/docs/ganache/overview)
 
 ### Solidity Fundamentals
@@ -442,7 +443,7 @@
 ### Writing Smart Contracts
 
 #### Introductory Smart Contracts
-- [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorials/pet-shop)
+- [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorial)
 
 #### Inter-Contract Execution
 - [BaseCaller.sol](https://gist.github.com/critesjosh/50eb7f243cf960ebf6240fae52c14e63)
