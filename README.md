@@ -1,11 +1,13 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![:robot:](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg)](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml)
+
 # Awesome Smart Contracts
 
 > A curated list of awesome resources for ethereum smart contract developers
 
 ## Contents
-  
+
 - [Awesome Smart Contracts](#awesome-smart-contracts)
   - [Contents](#contents)
   - [Community](#community)
