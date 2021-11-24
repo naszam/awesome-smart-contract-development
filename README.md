@@ -4,10 +4,10 @@
 
 > A curated list of awesome resources for ethereum smart contract developers
 
-## Table of Contents
-
-- [Awesome Smart Contracts ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-smart-contracts-)
-  - [Table of Contents](#table-of-contents)
+## Contents
+  
+- [Awesome Smart Contracts](#awesome-smart-contracts)
+  - [Contents](#contents)
   - [Community](#community)
     - [Chat](#chat)
     - [Forum](#forum)
@@ -401,7 +401,6 @@
 
 #### Ganache GUI
 - [Download Ganache GUI](https://github.com/trufflesuite/ganache-ui/releases)
-- [Ganache Documentation](https://www.trufflesuite.com/docs/ganache/overview)
 
 ### Solidity Fundamentals
 
