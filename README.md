@@ -1,6 +1,5 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![:robot:](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg)](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml)
+[![Bot](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg)](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml)
 
 # Awesome Smart Contracts
 
