@@ -1,4 +1,6 @@
-# Awesome Smart Contracts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# Awesome Smart Contracts
 
 > A curated list of awesome resources for ethereum smart contract developers
 
@@ -108,7 +110,7 @@
 - [ConsenSys](https://consensys.net/blog/)
 
 ### News
-- [Week in Ethereum](https://weekinethereumnews.com/)
+- [Week in Ethereum](https://weekinethereum.substack.com/)
 - [EthHub](https://ethhub.substack.com/)
 - [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
 
@@ -370,7 +372,7 @@
 - [Metamask: Chrome Extension for Ethereum](https://metamask.io/download.html)
 - [Remix: an in-browser IDE for Smart Contract Development](https://remix.ethereum.org/#optimize=false&evmVersion=null)
 - [Truffle: A Blockchain Development Framework](https://www.trufflesuite.com/)
-- [Truffle Ganache: A Private Testnet for Blockchain Development](https://www.trufflesuite.com/docs/ganache/overview)
+- [Truffle Ganache: A Private Testnet for Blockchain Development](https://github.com/trufflesuite/ganache)
 - [Web3.js: Javascript Library for Ethereum + front-end integration](https://web3js.readthedocs.io/en/v1.2.9/)
 - [IPFS website: Distributed File Storage Mechanism](https://ipfs.io/)
 - [Swarm documentation: Distributed File Storage within Geth](https://swarm-guide.readthedocs.io/en/latest/introduction.html)
