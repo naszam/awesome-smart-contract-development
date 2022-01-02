@@ -7,81 +7,21 @@
 
 ## Contents
 
-- [Awesome Smart Contracts](#awesome-smart-contracts)
-  - [Contents](#contents)
   - [Community](#community)
-    - [Chat](#chat)
-    - [Forum](#forum)
-    - [Blogs](#blogs)
-    - [News](#news)
-    - [Podcasts](#podcasts)
-    - [Talks](#talks)
-      - [DappTools](#dapptools)
-    - [Lists](#lists)
   - [Tools](#tools)
-    - [Smart Contracts](#smart-contracts)
-    - [Tests](#tests)
-    - [Front-End](#front-end)
-    - [Utilities](#utilities)
-    - [Env](#env)
-    - [CI/CD](#cicd)
   - [Docs](#docs)
   - [Templates](#templates)
-    - [Dapptools](#dapptools-1)
   - [Tutorials](#tutorials)
-    - [DappTools](#dapptools-2)
-    - [Testing](#testing)
   - [Security](#security)
-    - [Static Analyzers](#static-analyzers)
-    - [Fuzzer](#fuzzer)
-    - [Formal Verification](#formal-verification)
   - [Certifications](#certifications)
   - [Projects](#projects)
-    - [DappTools](#dapptools-3)
-  - [Crypto Degree](#crypto-degree)
-    - [Blockchain Technology](#blockchain-technology)
-      - [Consensus Algorithms](#consensus-algorithms)
-      - [Mining](#mining)
-      - [Public and Private Blockchains](#public-and-private-blockchains)
-      - [Distributed Ledger Platforms](#distributed-ledger-platforms)
-    - [Blockchain Primitives](#blockchain-primitives)
-      - [Cryptographic Hash Functions](#cryptographic-hash-functions)
-      - [Public Key Cryptography](#public-key-cryptography)
-      - [Merkle Trees](#merkle-trees)
-      - [Blockchain Structure](#blockchain-structure)
-      - [Smart Contracts](#smart-contracts-1)
-      - [Nodes](#nodes)
-      - [Blockchain Forks](#blockchain-forks)
-    - [Ethereum Basics](#ethereum-basics)
-      - [Accounts](#accounts)
-      - [Transactions](#transactions)
-      - [Gas and Fees](#gas-and-fees)
-      - [Ethereum Structure](#ethereum-structure)
-      - [Ethereum Addresses](#ethereum-addresses)
-    - [Traditional and Decentralized Application Development](#traditional-and-decentralized-application-development)
-      - [Decentralized Application Development](#decentralized-application-development)
-      - [Development Environment Setup Options](#development-environment-setup-options)
-      - [Key Developer Tools](#key-developer-tools)
-      - [Geth](#geth)
+  - [Smart Contracts Development](#smart-contract-development)
+    - [Blockchain 101](#blockchain-101)
+    - [Ethereum 101](#ethereum-101)
+    - [DApp Development](#dapp-development)
     - [Development Frameworks and Environment](#development-frameworks-and-environment)
-      - [MetaMask](#metamask)
-      - [Ganache CLI](#ganache-cli)
-      - [Truffle](#truffle)
-      - [Ganache GUI](#ganache-gui)
-    - [Solidity Fundamentals](#solidity-fundamentals)
-      - [Data Types and Variables](#data-types-and-variables)
-      - [Functions](#functions)
-      - [Storage and Memory](#storage-and-memory)
-      - [Contract Structure](#contract-structure)
-      - [Reading Smart Contracts with Remix](#reading-smart-contracts-with-remix)
-      - [Smart Contract ABI](#smart-contract-abi)
-      - [Events and Logs](#events-and-logs)
-      - [Factory Contracts](#factory-contracts)
-    - [Writing Smart Contracts](#writing-smart-contracts)
-      - [Introductory Smart Contracts](#introductory-smart-contracts)
-      - [Inter-Contract Execution](#inter-contract-execution)
-      - [Inheritance](#inheritance)
-      - [Libraries and the Ethereum Package Manager](#libraries-and-the-ethereum-package-manager)
+    - [Solidity 101](#solidity-101)
+    - [Solidity 201](#solidity-201)
     - [References](#references)
   - [License](#license)
 
@@ -122,18 +62,22 @@
 
 ### Talks
 
-#### DappTools
 - [DappHub](https://www.youtube.com/watch?v=rKQCvUp5q1w)
 - [Smart Contract Development with dapp.tools](https://www.youtube.com/watch?v=lPinWgaNceM)
 
 ### Lists
-- [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools) - DappTools Resources
-- [Awesome IPFS](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it  
-- [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references, guidance, tools, and more.  
-- [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.  
-- [Ethereum Developer Resources](https://ethereum.org/en/developers/) - Guides, resources, and tools for developers building on Ethereum.  
-- [ConsenSys Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
-- [Truffle University Resources](https://github.com/truffleuniversity/resources) - A living collection of resources in Truffle University's courses.
+- [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools)
+    > DappTools Resources
+- [Awesome IPFS](https://github.com/ipfs/awesome-ipfs)
+    > Useful resources for using IPFS and building things on top of it
+- [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security)
+    > A curated list of awesome Ethereum security references, guidance, tools, and more.
+- [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+    > A curated list of awesome Solidity resources, libraries, tools and more.
+- [Ethereum Developer Resources](https://ethereum.org/en/developers/)
+    > Guides, resources, and tools for developers building on Ethereum.
+- [ConsenSys Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+    > A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 
 ## Tools
 
@@ -201,8 +145,8 @@
 
 ## Templates
 
-### Dapptools
 - [DappTools Template](https://github.com/gakonst/dapptools-template)
+- [HardHat Template](https://github.com/paulrberg/solidity-template)
 
 ## Tutorials
 
@@ -271,9 +215,9 @@
 - [Fractional](https://github.com/fractional-company/contracts)
 - [K DSS](https://github.com/dapphub/k-dss)
 
-## Crypto Degree
+## Smart Contract Development
 
-### Blockchain Technology
+### Blockchain 101
 
 #### Consensus Algorithms
 - [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault#Byzantine_Generals'_Problem)
@@ -282,16 +226,7 @@
 - [Understanding Distributed Consensus](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
 
 #### Mining
-- [Live visualization of block formation](http://ethviewer.live/)
 - [Ethereum Wiki on Mining](https://eth.wiki/en/fundamentals/mining)
-
-#### Public and Private Blockchains
-- [On public and private blockchains by Vitalik Buterin](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
-
-#### Distributed Ledger Platforms
-- [Enterprise Blockchain Protocols: A Technical Analysis of Ethereum vs Fabric vs Corda](https://www.kaleido.io/blockchain-blog/enterprise-blockchain-protocols-a-technical-analysis-of-ethereum-vs-fabric-vs-corda)
-
-### Blockchain Primitives
 
 #### Cryptographic Hash Functions
 - [Blockchain Underpinnings: Hashing by ConsenSys Media](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
@@ -314,17 +249,13 @@
 
 #### Smart Contracts
 - [Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#)
-- [What is a smart contract?](https://coinsutra.com/smart-contracts/)
 
 #### Nodes
-- [What is an Ethereum node?](https://www.reddit.com/r/ethereum/comments/4dx6km/newbie_question_what_is_ethereum_node/)
 
 #### Blockchain Forks
 - [Hard Forks, Soft Forks, Defaults and Coercion by Vitalik Buterin](https://vitalik.ca/general/2017/03/14/forks_and_markets.html)
-- [Short guide to bitcoin forks - Coindesk](https://www.coindesk.com/short-guide-bitcoin-forks-explained)
-- [Map of coins: Visualized history of Bitcoin forks and altcoins](https://mapofcoins.com/bitcoin)
 
-### Ethereum Basics
+### Ethereum 101
 
 #### Accounts
 - [Hexadecimal format](https://en.wikipedia.org/wiki/Hexadecimal)
@@ -351,14 +282,11 @@
 - [Ethstats](https://ethstats.net/)
 
 #### Ethereum Addresses
-- [Understanding the concept of private keys, public keys and addresses in Ethereum](https://etherworld.co/2017/11/17/understanding-the-concept-of-private-key-public-key-and-address-in-ethereum-blockchain/)
-- [Bitcoin wiki on Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
 - [Ethereum yellow paper](http://gavwood.com/paper.pdf)
 
-### Traditional and Decentralized Application Development
+### Dapp Development
 
 #### Decentralized Application Development
-- [Why use a blockchain?](https://www.coindesk.com/learn/blockchain-101/how-blockchain-technology-change-finance)
 - [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [A Brief Overview of dapp Development](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c?gi=9ece1030a15c)
 - [Building for Blockchain: Transitioning from Web 2.0 to Web 3.0 ](https://blog.ycombinator.com/building-for-the-blockchain/)
@@ -368,8 +296,6 @@
 - [Infura: A public API Interface for Ethereum](https://infura.io/product/overview)
 
 #### Key Developer Tools
-- [Hyperledger Besu: an open source,  enterprise-grade, Java-based Ethereum client](https://pegasys.tech/solutions/hyperledger-besu/)
-- [Parity: A Rust-based Ethereum client](https://www.parity.io/)
 - [Metamask: Chrome Extension for Ethereum](https://metamask.io/download.html)
 - [Remix: an in-browser IDE for Smart Contract Development](https://remix.ethereum.org/#optimize=false&evmVersion=null)
 - [Truffle: A Blockchain Development Framework](https://www.trufflesuite.com/)
@@ -396,76 +322,58 @@
 #### Ganache CLI
 - [Ganache-cli on npm](https://www.npmjs.com/package/ganache-cli)
 
-#### Truffle
-- [Truffle Boxes](https://www.trufflesuite.com/boxes)
-- [Creating a Project with Truffle ](https://www.trufflesuite.com/docs/truffle/getting-started/creating-a-project)
-
 #### Ganache GUI
 - [Download Ganache GUI](https://github.com/trufflesuite/ganache-ui/releases)
 
-### Solidity Fundamentals
+### Solidity 101
 
 #### Data Types and Variables
-- [Solidity Docs - Types](https://solidity.readthedocs.io/en/latest/types.html) 
-- [Solidity Docs - Contract Types](https://solidity.readthedocs.io/en/latest/types.html#contract-types)
+- [Solidity Docs - Types](https://solidity.readthedocs.io/en/develop/types.html)
+- [Solidity Docs - Contract Types](https://solidity.readthedocs.io/en/develop/types.html#contract-types)
  
 #### Functions
-- [Solidity docs - Functions](https://solidity.readthedocs.io/en/latest/contracts.html#functions)
-- [Solidity docs - Function Types](https://solidity.readthedocs.io/en/latest/types.html?highlight=function%20types#function-types)
+- [Solidity docs - Functions](https://solidity.readthedocs.io/en/develop/contracts.html#functions)
+- [Solidity docs - Function Types](https://solidity.readthedocs.io/en/develop/types.html?highlight=function%20types#function-types)
 
 #### Storage and Memory
 - [Difference between memory and storage](https://ethereum.stackexchange.com/questions/1232/difference-between-memory-and-storage)
-- [Storage, Memory and the Stack](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html#storage-memory-and-the-stack)
-- [Data location -- Solidity Docs](https://solidity.readthedocs.io/en/latest/types.html#data-location)
+- [Storage, Memory and the Stack](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#storage-memory-and-the-stack)
+- [Data location -- Solidity Docs](https://solidity.readthedocs.io/en/develop/types.html#data-location)
 
 #### Contract Structure
 - [Structure of a Contract](https://solidity.readthedocs.io/en/develop/structure-of-a-contract.html)
 - [Smart contracts as a State Machine](https://solidity.readthedocs.io/en/develop/common-patterns.html?#state-machine)
-- [Solidity Assembly Code](https://solidity.readthedocs.io/en/latest/assembly.html)
+- [Solidity Inline Assembly](https://solidity.readthedocs.io/en/develop/assembly.html)
 
 #### Reading Smart Contracts with Remix
-- [SimpleStorage.sol](https://gist.github.com/ConsenSys-Academy/6d93a805ce0e90d8a793a4eb6e69b4c5#file-simplestorage-sol)
-- [Solidity by Example - Solidity Docs](https://solidity.readthedocs.io/en/latest/solidity-by-example.html)
+- [Remix Workshops](https://github.com/ethereum/remix-workshops)
+- [Solidity by Example - Solidity Docs](https://solidity.readthedocs.io/en/develop/solidity-by-example.html)
 
 #### Smart Contract ABI
 - [Solidity Docs - ABI](https://solidity.readthedocs.io/en/latest/abi-spec.html)
 - [What is the ABI and why is it needed to interact with contracts](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts)
 
 #### Events and Logs
-- [Technical introduction to Events and Logs in Ethereum by Joseph Chow, Consensys Media](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
-- [Events - Solidity Docs](https://solidity.readthedocs.io/en/latest/contracts.html#events)
-- [Listening to events with web3.js](https://web3js.readthedocs.io/en/v1.2.9/web3-eth-subscribe.html?highlight=events#subscribe-logs) 
-- [Listening to events via the contract object](https://web3js.readthedocs.io/en/v1.2.9/web3-eth-contract.html#contract-events)
+- [Events - Solidity Docs](https://solidity.readthedocs.io/en/develop/contracts.html#events)
+- [Listening to events with web3.js](https://web3js.readthedocs.io/en/v1.5.2/web3-eth-subscribe.html?highlight=events#subscribe-logs)
+- [Listening to events via the contract object](https://web3js.readthedocs.io/en/v1.5.2/web3-eth-contract.html#contract-events)
 
 #### Factory Contracts
-- [Manage several contracts with Factories](https://ethereumdev.io/interact-with-other-contracts-from-solidity/)
-- [EIP20.sol by ConsenSys](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol)
-- [EIP20Factory.sol by ConsenSys](https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20Factory.sol)
 
-### Writing Smart Contracts
+### Solidity 201
 
 #### Introductory Smart Contracts
-- [Truffle Pet Shop Tutorial](https://www.trufflesuite.com/tutorial)
 
 #### Inter-Contract Execution
-- [BaseCaller.sol](https://gist.github.com/critesjosh/50eb7f243cf960ebf6240fae52c14e63)
-- [ContextSwitcher.sol](https://gist.github.com/ConsenSys-Academy/de1b2000f3682f0cfba784d0cb5400e7)
 - [Difference between call, callcode and delegatecall - stackexchange](https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall)
-- [Interactions between contracts](https://dappsforbeginners.wordpress.com/tutorials/interactions-between-contracts/)
 
 #### Inheritance
-- [Inheritance in Solidity](https://ethereumdev.io/inheritance-in-solidity-contracts-are-classes/)
 - [Inheritance, from the Solidity Docs](https://solidity.readthedocs.io/en/develop/contracts.html#inheritance)
 - [Abstract contracts](https://solidity.readthedocs.io/en/latest/contracts.html#abstract-contracts)
 - [Interfaces](https://solidity.readthedocs.io/en/latest/contracts.html#interfaces)
 
-#### Libraries and the Ethereum Package Manager
-- [Library Driven Development inSolidity](https://medium.com/aragondec/library-driven-development-in-solidity-2bebcaf88736)
+#### Libraries
 - [Libraries in the Solidity Docs](https://solidity.readthedocs.io/en/develop/contracts.html#libraries)
-- [Linking to deployed libraries with Truffle migrations](https://www.trufflesuite.com/docs/truffle/getting-started/running-migrations#deployer-link-library-destinations-)
-- [What are the steps to compile and deploy a library in solidity?](https://ethereum.stackexchange.com/questions/6927/what-are-the-steps-to-compile-and-deploy-a-library-in-solidity)
-- [Package Management with EthPM in Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/package-management-via-ethpm)
-- [EthPM: Reusable Smart Contract Packages](https://medium.com/coinmonks/ethpm-smart-contract-packages-for-developers-81c77481c491)
 
 ### References
 - [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
