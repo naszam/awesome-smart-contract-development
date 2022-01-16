@@ -18,6 +18,7 @@
   - [Community](#community)
   - [Tools](#tools)
   - [Docs](#docs)
+  - [Boox](#boox)
   - [Templates](#templates)
   - [Tutorials](#tutorials)
   - [Certifications](#certifications)
@@ -104,7 +105,8 @@
 
 ### Fuzz Testing
 - [Echidna](https://github.com/crytic/echidna)
-- [DappTools]()
+- [DappTools](https://github.com/dapphub/dapptools/tree/master/src/dapp#property-based-testing)
+- [Forge](https://github.com/gakonst/foundry/tree/master/forge#fuzzing-go-beyond-unit-testing)
 
 ### Static Analyzers
 - [Slither](https://github.com/crytic/slither)
@@ -186,6 +188,10 @@
 - [Ethers.js](https://docs.ethers.io/)
 - [Web3.js](https://web3js.readthedocs.io/)
 - [Ethers.rs](https://docs.rs/ethers/latest/ethers/)
+
+## Boox
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [The Senior Solidity Engineer's Book](https://github.com/gakonst/solidity-book)
 
 ## Tutorials
 
