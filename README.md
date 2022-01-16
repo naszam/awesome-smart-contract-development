@@ -1,6 +1,3 @@
-[![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Bot](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg)](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml)
-
 <div align="center">
   <h1 align="center">Awesome Smart Contract Development</h1>
   <p align="center">
