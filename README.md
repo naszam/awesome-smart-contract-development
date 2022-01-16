@@ -13,10 +13,6 @@
 
 </div>
 
-# Awesome Smart Contract Development
-
-> A curated list of awesome resources for ethereum smart contract developement
-
 ## Contents
 
   - [Community](#community)
