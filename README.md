@@ -1,6 +1,21 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Bot](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg)](https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml)
 
+<div align="center">
+  <h1 align="center">Awesome Smart Contract Development</h1>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    </a>
+    <a href="#botstatus">
+      <img alt="bot status badge" src="https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg">
+    </a>
+  </p>
+
+  <p align="center">A curated list of awesome <a href="https://ethereum.org/">Ethereum</a> Smart Contract Development resources, tools, security and more.</p>
+
+</div>
+
 # Awesome Smart Contract Development
 
 > A curated list of awesome resources for ethereum smart contract developement
