@@ -29,8 +29,9 @@
 
 ### Chat
 - [Consensys](https://discord.gg/nkK6qbp4Z9)
-- [Maker Chat](https://chat.makerdao.com)
+- [MakerDAO](https://chat.makerdao.com)
 - [DappHub Chat](https://dapphub.chat)
+- [Foundry](https://t.me/foundry_rs)
 - [Empire Hacking Slack ](https://empireslacking.herokuapp.com/)
 - [Secureum](discord.gg/ym8BtcWUY2)
 - [CryptoDevs](https://discord.gg/xH89RthUUf)
@@ -81,6 +82,7 @@
 - [Awesome IPFS](https://github.com/ipfs/awesome-ipfs)
     > Useful resources for using IPFS and building things on top of it
 - [Awesome StarkNet](https://github.com/gakonst/awesome-starknet)
+    > A curated list of awesome StarkNet resources, libraries, tools and more.
 
 ## Tools
 
@@ -193,11 +195,11 @@
 - [Symbolic Execution With ds-test](https://fv.ethereum.org/2020/12/11/symbolic-execution-with-ds-test/)
 - [HEVM and Seth Cheatsheet](https://kndrck.co/posts/hevm_seth_cheatsheet/)
 - [Use dapp.tools for Ethereum Contract Development](https://medium.com/coinmonks/use-dapp-tools-for-ethereum-contract-development-2775d8b2ba0)
-- [Programming a simple ERC20 token - Part 1](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD) :movie_camera:
-- [Programming a simple ERC20 token - Part 2](https://www.youtube.com/watch?v=ifHdJQM6AlE) :movie_camera:
-- [Programming a simple ERC20 token - Part 3](https://www.youtube.com/watch?v=ejkaRMcW2JM) :movie_camera:
-- [Programming a simple ERC20 token - Part 4](https://www.youtube.com/watch?v=PRXZ499LqNk) :movie_camera:
-- [Programming a simple ERC20 token - Part 5](https://www.youtube.com/watch?v=qs4Q-BMb9ms) :movie_camera:
+- [Programming a simple ERC20 token - Part 1](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
+- [Programming a simple ERC20 token - Part 2](https://www.youtube.com/watch?v=ifHdJQM6AlE)
+- [Programming a simple ERC20 token - Part 3](https://www.youtube.com/watch?v=ejkaRMcW2JM)
+- [Programming a simple ERC20 token - Part 4](https://www.youtube.com/watch?v=PRXZ499LqNk)
+- [Programming a simple ERC20 token - Part 5](https://www.youtube.com/watch?v=qs4Q-BMb9ms)
 - [Become a Dapptools Pilled Chad in 30 minutes or Your Money Back](https://youtu.be/N9pJ9JieX10)
 - [Smart Contract Development with dapp.tools](https://youtu.be/lPinWgaNceM)
 
