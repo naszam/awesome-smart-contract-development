@@ -29,19 +29,14 @@
 ## Community
 
 ### Chat
-- [Consensys](https://discord.gg/nkK6qbp4Z9)
-- [MakerDAO](https://chat.makerdao.com)
-- [DappHub Chat](https://dapphub.chat)
 - [Foundry](https://t.me/foundry_rs)
 - [Empire Hacking Slack ](https://empireslacking.herokuapp.com/)
 - [Secureum](discord.gg/ym8BtcWUY2)
-- [CryptoDevs](https://discord.gg/xH89RthUUf)
 - [Gitter](https://gitter.im/ethereum/solidity/)
 
 ### Forum
 - [Solidity Forum](https://forum.soliditylang.org/)
 - [Ethereum Magicians Forum](https://ethereum-magicians.org/)
-- [Maker Forum](https://forum.makerdao.com/)
 - [OpenZeppelin Forum](https://forum.openzeppelin.com/)
 - [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
 - [Ethereum StackExchange](https://ethereum.stackexchange.com/)
@@ -52,7 +47,6 @@
 - [Vitalik](https://vitalik.ca/)
 - [Samczsun](https://samczsun.com/)
 - [IPFS](https://blog.ipfs.io/)
-- [ConsenSys](https://consensys.net/blog/)
 
 ### News
 - [Week in Ethereum](https://weekinethereum.substack.com/)
@@ -62,8 +56,6 @@
 
 ### Podcasts
 - [ZK Podcast](https://zeroknowledge.fm/)
-- [Bankless Podcast](http://podcast.banklesshq.com/)
-- [The Defiant Podcast](https://thedefiant.io/podcast/)
 
 ### Talks
 
@@ -88,25 +80,37 @@
 ## Tools
 
 ### Development
-- [DappTools](https://dapp.tools/)
-- [Foundry](https://github.com/gakonst/foundry)
+- [Foundry](https://github.com/foundry-rs/foundry)
+- [DappTools](https://github.com/dapphub/dapptools)
 - [HardHat](https://github.com/nomiclabs/hardhat)
-- [Truffle](https://www.trufflesuite.com/truffle)
+- [Truffle](https://github.com/trufflesuite/truffle)
 
 ### Libraries
 - [Solmate](https://github.com/Rari-Capital/solmate)
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)
 
 ### Unit Testing
-- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm)
+- [Forge](https://github.com/foundry-rs/foundry/tree/master/forge)
+- [Forge Standard Library](https://github.com/foundry-rs/forge-std)
+- [Fondry Cheatcode Reference](https://book.getfoundry.sh/cheatcodes/)
+- [Anvil](https://github.com/foundry-rs/foundry/tree/master/anvil)
+- [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel)
+- [Hevm](https://github.com/ethereum/hevm)
 - [DSTest](https://github.com/dapphub/ds-test)
+- [DssTest](https://github.com/makerdao/dss-test)
 - [HardHat Network](https://hardhat.org/hardhat-network/)
 - [Ganache](https://github.com/trufflesuite/ganache)
 
 ### Fuzz Testing
 - [Echidna](https://github.com/crytic/echidna)
+- [Forge](https://book.getfoundry.sh/forge/fuzz-testing?highlight=fuzz%20testing#fuzz-testing)
 - [DappTools](https://github.com/dapphub/dapptools/tree/master/src/dapp#property-based-testing)
-- [Forge](https://github.com/gakonst/foundry/tree/master/forge#fuzzing-go-beyond-unit-testing)
+
+### Invariant Testing
+- [Forge](https://book.getfoundry.sh/forge/invariant-testing?highlight=invariant#invariant-testing)
+
+### Symbolic Execution
+- [Hevm](https://github.com/ethereum/hevm)
 
 ### Static Analyzers
 - [Slither](https://github.com/crytic/slither)
@@ -115,6 +119,7 @@
 - [Remix](https://remix.ethereum.org/)
 
 ### Formal Verification
+- [Certora](https://www.certora.com/)
 - [KLab](https://github.com/makerdao/klab)
 - [Manticore](https://github.com/trailofbits/manticore)
 - [Act](https://github.com/ethereum/act)
@@ -130,10 +135,22 @@
 - [Maker Nix Packages](https://github.com/makerdao/makerpkgs)
 - [Docker-DappTools](https://github.com/OdysLam/ddapptools)
 
+### Config
+- [EditorConfig](https://editorconfig.org/)
+- [mcd-editconfig](https://github.com/brianmcmichael/mcd-editorconfig)
+
+### VSCode Extensions
+- [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
+- [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor)
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [Vyper](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-vyper)
+- [Certora IDE VSCode](https://marketplace.visualstudio.com/items?itemName=Certora.vscode-certora-prover)
+- [HardHat VSCode](https://github.com/NomicFoundation/hardhat-vscode)
+
 ### CI/CD
+- [Foundry Toolchain CI](https://github.com/foundry-rs/foundry-toolchain)
 - [DappTools Maker CI](https://github.com/makerdao/dss/blob/master/.github/workflows/tests.yaml)
 - [DappTools Template CI](https://github.com/gakonst/dapptools-template/blob/master/.github/workflows/ci.yml)
-- [Forge Template CI](https://github.com/FrankieIsLost/forge-template/blob/master/.github/workflows/CI.yml)
 - [HardHat Tests CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/tests.yml)
 - [HardHat Lint CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/lint.yml)
 - [Slither Check CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/check.yml)
@@ -142,8 +159,9 @@
 
 ### Templates
 - [DappTools Template](https://github.com/gakonst/dapptools-template)
-- [Forge Template](https://github.com/FrankieIsLost/forge-template)
+- [Forge Template](https://github.com/foundry-rs/forge-template)
 - [HardHat Template](https://github.com/paulrberg/solidity-template)
+- [HadHat Foundry Template](https://github.com/foundry-rs/hardhat-foundry-template)
 - [Merkle Airdrop Starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter)
 
 ### Storage
@@ -154,7 +172,7 @@
 ### Utilities
 - [duppgrade](https://github.com/Rari-Capital/duppgrade)
 - [duppsolc](https://github.com/naszam/duppsolc)
-- [forgeup](https://github.com/transmissions11/forgeup)
+- [foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup)
 - [seth helpers](https://gist.github.com/mds1/3f070676129a095dec372c2d02cedfdd)
 - [HEVM Helpers](https://github.com/brockelmore/HEVMHelpers)
 - [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util)
@@ -174,13 +192,14 @@
 
 ## Docs
 - [Solidity](https://solidity.readthedocs.io/en/latest/)
+- [Foundry Book](https://github.com/foundry-rs/book)
+- [Certora](https://docs.certora.com/en/latest/)
+- [Hevm](https://hevm.dev/)
 - [DappTools](https://github.com/dapphub/dapptools#dapp-tools-by-dapphub-)
 - [Dapp](https://github.com/dapphub/dapptools/tree/master/src/dapp#dapp-)
 - [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth#seth)
-- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm#hevm-)
 - [Ethsign](https://github.com/dapphub/dapptools/tree/master/src/ethsign#ethsign)
-- [Forge](https://github.com/gakonst/foundry/tree/master/forge)
-- [Cast](https://github.com/gakonst/foundry/tree/master/cast)
+- [Ethsign](https://github.com/dapphub/dapptools/tree/master/src/ethsign#ethsign)
 - [HardHat](https://hardhat.org/getting-started/)
 - [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/)
 - [Truffle](https://www.trufflesuite.com/docs/truffle/overview)
@@ -209,7 +228,7 @@
 - [Become a Dapptools Pilled Chad in 30 minutes or Your Money Back](https://youtu.be/N9pJ9JieX10)
 - [Smart Contract Development with dapp.tools](https://youtu.be/lPinWgaNceM)
 
-### Forge
+### Foundry
 - [Getting Started With Forge](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9Z58)
 
 ## Certifications
@@ -245,8 +264,7 @@
 - [K DSS](https://github.com/dapphub/k-dss)
 
 ### HardHat
-- [Optimism Dai Bridge](https://github.com/makerdao/optimism-dai-bridge)
-- [Arbitrum Dai Bridge](https://github.com/makerdao/arbitrum-dai-bridge)
+- [xdomain](https://github.com/makerdao/xdomain)
 - [Uniswap V3](https://github.com/Uniswap/v3-core)
 - [GUNI v1 Core](https://github.com/gelatodigital/g-uni-v1-core)
 
