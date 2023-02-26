@@ -231,6 +231,7 @@
 
 ### Foundry
 - [Getting Started With Forge](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9Z58)
+- [Invariant Testing WETH With Foundry](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw)
 
 ## Certifications
 - [Blockchain Developer Bootcamp ConsenSys Academy](https://consensys.net/academy/bootcamp/)
