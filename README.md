@@ -66,6 +66,7 @@
     > A curated list of awesome Solidity resources, libraries, tools and more.
 - [Ethereum Developer Resources](https://ethereum.org/en/developers/)
     > Guides, resources, and tools for developers building on Ethereum.
+- [Awesome Fondry](https://github.com/crisgarner/awesome-foundry)
 - [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools)
     > DappTools Resources
 - [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security)
