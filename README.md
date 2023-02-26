@@ -32,7 +32,7 @@
 - [Foundry](https://t.me/foundry_rs)
 - [Empire Hacking Slack ](https://empireslacking.herokuapp.com/)
 - [Secureum](discord.gg/ym8BtcWUY2)
-- [Gitter](https://gitter.im/ethereum/solidity/)
+- [Gitter](https://app.gitter.im/#/room/#ethereum_solidity:gitter.im)
 
 ### Forum
 - [Solidity Forum](https://forum.soliditylang.org/)
@@ -50,7 +50,6 @@
 
 ### News
 - [Week in Ethereum](https://weekinethereum.substack.com/)
-- [EthHub](https://ethhub.substack.com/)
 - [Secureum](https://secureum.substack.com)
 - [IPFS Weekly](https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&id=cad54b2230)
 
@@ -154,8 +153,8 @@
 - [DappTools Template CI](https://github.com/gakonst/dapptools-template/blob/master/.github/workflows/ci.yml)
 - [HardHat Tests CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/tests.yml)
 - [HardHat Lint CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/lint.yml)
-- [Slither Check CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/check.yml)
-- [Echidna Fuzz CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/fuzz.yml)
+- [Slither Check CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/slither.yml)
+- [Echidna Fuzz CI](https://github.com/naszam/maker-badges/blob/master/.github/workflows/echidna.yml)
 - [Echidna Action](https://github.com/crytic/echidna-action)
 
 ### Templates
