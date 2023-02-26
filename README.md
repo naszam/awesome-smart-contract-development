@@ -66,6 +66,7 @@
 - [Ethereum Developer Resources](https://ethereum.org/en/developers/)
     > Guides, resources, and tools for developers building on Ethereum.
 - [Awesome Fondry](https://github.com/crisgarner/awesome-foundry)
+    > Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Awesome DappTools](https://github.com/rajivpo/awesome-dapptools)
     > DappTools Resources
 - [Awesome Security Ethereum](https://github.com/crytic/awesome-ethereum-security)
