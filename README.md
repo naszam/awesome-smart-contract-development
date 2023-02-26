@@ -6,6 +6,7 @@
     </a>
     <a href="#botstatus">
       <img alt="bot status badge" src="https://github.com/naszam/awesome-smart-contracts/actions/workflows/bot.yml/badge.svg">
+      <img alt="lint status badge" src="https://github.com/naszam/awesome-smart-contracts/actions/workflows/lint.yml/badge.svg">
     </a>
   </p>
 
