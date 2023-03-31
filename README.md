@@ -168,6 +168,7 @@
 - [IPFS](https://ipfs.io/)
 - [Pinata](https://www.pinata.cloud/)
 - [Arweave](https://www.arweave.org/)
+- [Polybase](https://www.polybase.xyz)
 
 ### Utilities
 - [duppgrade](https://github.com/Rari-Capital/duppgrade)
